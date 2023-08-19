@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveWindowsTerminal", "MoveWindowsTerminal\MoveWindowsTerminal.csproj", "{9F7B1185-0F17-44DA-9A45-AC696C550BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7B1185-0F17-44DA-9A45-AC696C550BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7B1185-0F17-44DA-9A45-AC696C550BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7B1185-0F17-44DA-9A45-AC696C550BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7B1185-0F17-44DA-9A45-AC696C550BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727687AE-601A-4E0D-818D-0B8BF0FA4089}
+	EndGlobalSection
+EndGlobal
